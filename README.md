@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PijusSt
+- 👀 I’m new at programming
+- 🌱 I’m currently learning Javascript, Python
+- 💞️ I’m looking to collaborate on Discord bots and websites
+- 📫 You can contact on discord - 'Pijus#8587
